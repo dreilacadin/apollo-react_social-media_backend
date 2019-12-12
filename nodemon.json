@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "dreilacadin",
+    "MONGO_PASSWORD": "CR7E8gq1GzwUpubm",
+    "MONGO_DB": "SocialNetworkDB"
+  }
+}
